@@ -1,4 +1,16 @@
-# Logs
+# Upload folder
+upload/
+
+package-lock.json
+
+# Exclude IDE files
+.idea/
+
+.DS_Store
+
+public/.DS_Store
+
+sdfsd
 logs
 *.log
 npm-debug.log*
