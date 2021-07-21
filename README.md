@@ -3,7 +3,7 @@
 This repo contains the source code of OAuth2 demonstration application prepared for Software Security.
 The complete data flow of Google OAuth2 authentication process is described in the project report
 
-### Prerequisites -
+### Prerequisites
 1. NodeJS Runtime Environment (v10.19+) (To execute the code, preferred OS is Ubuntu 18+)
 2. NPM package manager (to insall missing dependencies)
 3. Git (To clone the repo in to local testing environment)
