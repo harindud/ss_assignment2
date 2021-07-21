@@ -1,5 +1,4 @@
-# ss_assignment2
-Software Security Assignment 2 - OAUTH Demo Application
+# Software Security Assignment 2 - OAUTH Demo Application
 
 This repo contains the source code of OAuth2 demonstration application prepared for Software Security.
 The complete data flow of Google OAuth2 authentication process is described in the project report
