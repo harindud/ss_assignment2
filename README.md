@@ -19,9 +19,9 @@ git clone https://github.com/harindud/ss_assignment2.git
 '''
 
 2. Install NPM packages. This will prompt to install any missing node module using npm package manager. You may simply accept/yes and the missing dependencies will be installed automatically.
-'''sh
-npm install
-'''
+   ```sh
+   npm install
+   ```
 
 3. Run the "server.js" using NodeJS Runtime Environment. 
 '''sh
